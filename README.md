@@ -10,4 +10,5 @@ ou
 git add . => pour tous les fichiers
 git commit -m "Version n°"
 git status => pour vérifier
+git push -u origin main
 ```
